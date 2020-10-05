@@ -16,3 +16,5 @@ if salary >= min_salary or years_on_job >= min_years:
     print('You qualify for the loan.')
 else:
     print('You do not qualify for this loan.')
+
+# good job creating README.  This README file is typically used to provide general info about your project / repository.
